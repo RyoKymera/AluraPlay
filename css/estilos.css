@@ -282,7 +282,11 @@ body {
     /*ESTILOS DE LA SECCIÓN VÍDEOS */
 
     .videos__container {
+<<<<<<< HEAD
         padding-left: 90px;
+=======
+        padding-left: 16rem;
+>>>>>>> ade533b (Carga de la versión final)
         padding-right: 17px;
     }
 
